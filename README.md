@@ -1,18 +1,8 @@
 # my-claude-journey
 
-## About Me
-Hi, I'm Ananya, a second-year Computer Science Engineering student.
+<img width="1472" height="5500" alt="image" src="https://github.com/user-attachments/assets/3a8a0d1b-6024-4e3e-ba35-545b33b46d69" />
+<img width="1472" height="1820" alt="image" src="https://github.com/user-attachments/assets/42cc1331-b491-4d69-8ed7-5319be41e38e" />
 
-## Why I'm Doing This
-I want to improve my coding skills, learn new technologies, and prepare for internship opportunities.
-
-## My Goals for the Next 60 Days
-- Practice coding daily
-- Learn Data Structures and Algorithms
-- Build small projects
-- Improve problem-solving skills
-- Use Claude and AI tools effectively
-- Become internship-ready
 
 ## Progress
 Day 1: Repository created and goals defined.
