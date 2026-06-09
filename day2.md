@@ -1,11 +1,20 @@
-##Lazy prompt
+# Day 2 - Prompt Engineering
 
+## What I Did Today
+
+Today I learned about Prompt Engineering and how the quality of a prompt affects the AI's response.
+
+I compared two prompts:
+
+**Basic/Lazy Prompt:**
+"Explain Prompt Engineering."
 <img width="1472" height="1360" alt="image" src="https://github.com/user-attachments/assets/4e8d6f0b-fe14-493d-96fa-d5550a170290" />
 
+**Improved Prompt:**
+"Explain Prompt Engineering in simple language, include its importance, examples of weak and improved prompts, benefits, and a LinkedIn image concept."
 
+I observed that the improved prompt generated a much more detailed and useful response.
 
-
-##Engineered prompt
 
 SECTION 1: EXPLAINING PROMPT ENGINEERING
 
@@ -58,3 +67,14 @@ SECTION 3: LINKEDIN IMAGE CONCEPT
 
 Now, let me create your professional LinkedIn visual:
 <img width="1472" height="1430" alt="image" src="https://github.com/user-attachments/assets/fb5e87ba-cc25-44ff-aedc-4d609077a030" />
+
+## Key Learnings
+
+* Better prompts give better results.
+* Being specific helps AI understand what we need.
+* Adding context and requirements improves output quality.
+* Prompt Engineering is about clear communication with AI.
+
+## Reflection
+
+Today's activity helped me understand that even small changes in a prompt can significantly improve AI-generated responses. I will try to write clearer and more detailed prompts in future tasks.
