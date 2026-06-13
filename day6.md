@@ -41,4 +41,4 @@ Small improvements such as using standard headings, stronger action verbs, and r
 <img width="900" height="604" alt="image" src="https://github.com/user-attachments/assets/231cb4c9-bbd9-485b-98fa-8f7e558ca7b4" />
 
 
-<img width="955" height="555" alt="image" src="https://github.com/user-attachments/assets/34759ab3-83d4-43f6-944f-25aaf103de38" />
+<img width="1903" height="800" alt="image" src="https://github.com/user-attachments/assets/cf44bf7a-b8c9-4b58-8739-43fb4236e5e5" />
