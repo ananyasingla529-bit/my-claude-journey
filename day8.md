@@ -18,13 +18,6 @@ Used the provided Environmental Health Analyzer prompt.
 * Interactive Filters
 * Personalized Recommendations
 
-## Key Learnings
-
-1. Claude can generate complete HTML applications from natural language prompts.
-2. Detailed prompts produce significantly better applications.
-3. Interactive dashboards can be created without manually writing code.
-4. Context and requirements strongly influence the quality of generated applications.
-
 ## Screenshots
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a5f6a108-5b69-4747-bec7-85a03738b311" />
@@ -33,10 +26,14 @@ Used the provided Environmental Health Analyzer prompt.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2f3a347f-3263-4de2-a82d-15e68de074a2" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6ac864d7-f0cd-4697-948e-a35484e2b165" />
 
-## Files Included
 
-* index.html "C:\Users\sunid\Downloads\index.html"
-* Dashboard Screenshots
+## Key Learnings
+
+1. Claude can generate complete HTML applications from natural language prompts.
+2. Detailed prompts produce significantly better applications.
+3. Interactive dashboards can be created without manually writing code.
+4. Context and requirements strongly influence the quality of generated applications.
+
 
 ## Reflection
 
